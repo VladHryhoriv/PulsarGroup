@@ -1,0 +1,25 @@
+/*! @lingui/react */
+
+/*! pages/paths */
+
+/*! react-helmet */
+
+/*! react-router-dom */
+
+/*! react/jsx-runtime */
+
+/*! shared/theme/colors */
+
+/*! shared/ui/atoms/button */
+
+/*! shared/ui/atoms/typography */
+
+/*! shared/ui/templates/center-template */
+
+/*! shared/ui/templates/gradient-template */
+
+/*! styled-components */
+
+/*!*********************************!*\
+  !*** ./src/pages/404/index.tsx ***!
+  \*********************************/

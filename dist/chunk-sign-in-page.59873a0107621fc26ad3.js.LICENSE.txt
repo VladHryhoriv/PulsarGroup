@@ -1,0 +1,47 @@
+/*! @lingui/core */
+
+/*! @lingui/react */
+
+/*! pages/paths */
+
+/*! react */
+
+/*! react-helmet */
+
+/*! react-router-dom */
+
+/*! react/jsx-runtime */
+
+/*! shared/ui/atoms/button */
+
+/*! shared/ui/atoms/typography/title */
+
+/*! shared/ui/molecules/gradient-block */
+
+/*! shared/ui/templates/auth-template */
+
+/*! shared/ui/templates/center-template */
+
+/*! shared/ui/templates/gradient-template */
+
+/*! styled-components */
+
+/*!*****************************************!*\
+  !*** ./src/pages/join/sended/index.tsx ***!
+  \*****************************************/
+
+/*!******************************************!*\
+  !*** ./src/pages/join/changed/index.tsx ***!
+  \******************************************/
+
+/*!****************************************************!*\
+  !*** ./src/pages/join/reset/index.tsx + 1 modules ***!
+  \****************************************************/
+
+/*!******************************************************!*\
+  !*** ./src/pages/join/restore/index.tsx + 1 modules ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./src/pages/join/sign-in/index.tsx + 1 modules ***!
+  \******************************************************/

@@ -1,0 +1,699 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-05-14 10:28+0300\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/features/join/components/signup-form/index.tsx:120
+#~ msgid "buttons.createAccount"
+#~ msgstr "от"
+
+#: src/features/main/components/instruction/form.tsx:61
+#: src/features/main/components/instruction/form.tsx:68
+msgid "buttons.invest"
+msgstr "Инвестировать"
+
+#: src/features/join/containers/sign-in-form/index.tsx:85
+#: src/features/join/containers/sign-up-form/index.tsx:140
+msgid "buttons.login"
+msgstr "Войти"
+
+#: src/features/password/components/new-password-form/index.tsx:48
+#~ msgid "buttons.save"
+#~ msgstr ""
+
+#: src/features/join/containers/reset-form/index.tsx:84
+#: src/features/join/containers/restore-form/index.tsx:57
+msgid "buttons.send"
+msgstr "Отправить"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:35
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:42
+msgid "cancel"
+msgstr "Нет"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:33
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:40
+msgid "confirm"
+msgstr "Да"
+
+#: src/features/home/components/header/settings.tsx:45
+#~ msgid "delete_account_1"
+#~ msgstr "Вы уверены что хотите "
+
+#: src/features/home/components/header/settings.tsx:46
+#~ msgid "delete_account_2"
+#~ msgstr "удалить"
+
+#: src/features/home/components/header/settings.tsx:47
+#~ msgid "delete_account_3"
+#~ msgstr " свой аккаунт?"
+
+#: src/features/common/components/error-boundary/index.tsx:41
+msgid "error-went-wrong"
+msgstr "Что-то пошло не так"
+
+#: src/processes/auth/init.ts:79
+msgid "error.email_alreadt_used"
+msgstr "Електронна пошта вже використовується"
+
+#: src/features/profile/model/init.ts:84
+msgid "error.fail_delete_account"
+msgstr "Ну удалось удалить акаунт"
+
+#: src/features/profile/model/init.ts:69
+msgid "error.fail_send_email"
+msgstr "Не удалось отправить письмо"
+
+#: src/features/profile/model/init.ts:34
+#: src/features/profile/model/init.ts:49
+msgid "error.fail_update_profile"
+msgstr "Ошибка обновления профиля"
+
+#: src/features/main/containers/options/desktop-options.tsx:25
+#: src/features/main/containers/options/mobile-options.tsx:37
+msgid "error.incorect-sum"
+msgstr "Вы инвестируете неверную сумму"
+
+#: src/features/join/containers/restore-form/index.tsx:33
+#: src/features/join/containers/sign-in-form/index.tsx:39
+#: src/features/join/containers/sign-up-form/index.tsx:44
+msgid "error.invalid_email"
+msgstr "Вы ввели неправильный e-mail"
+
+#: src/features/export/components/modal-form.tsx:49
+#: src/features/import/components/modal-form.tsx:49
+msgid "error.isNotNumber"
+msgstr "Сумма должна быть числом!"
+
+#: src/features/join/containers/sign-up-form/index.tsx:48
+msgid "error.minLength"
+msgstr "Минимальное количество символов 6"
+
+#: src/features/export/components/modal-form.tsx:46
+#: src/features/export/components/modal-form.tsx:47
+#: src/features/export/components/modal-form.tsx:50
+#: src/features/import/components/modal-form.tsx:46
+#: src/features/import/components/modal-form.tsx:47
+#: src/features/import/components/modal-form.tsx:50
+#: src/features/join/containers/reset-form/index.tsx:33
+#: src/features/join/containers/restore-form/index.tsx:34
+#: src/features/join/containers/sign-in-form/index.tsx:40
+#: src/features/join/containers/sign-in-form/index.tsx:41
+#: src/features/join/containers/sign-up-form/index.tsx:42
+#: src/features/join/containers/sign-up-form/index.tsx:45
+#: src/features/join/containers/sign-up-form/index.tsx:47
+#: src/features/main/components/instruction/form.tsx:39
+msgid "error.required"
+msgstr "Обязательное поле"
+
+#: src/features/profile/model/init.ts:39
+#: src/features/profile/model/init.ts:54
+msgid "error.success_update_profile"
+msgstr "Профиль успешно обновлен"
+
+#: src/processes/auth/init.ts:84
+msgid "error.wrong_login_password"
+msgstr "Вы ввели неправильный e-mail или пароль"
+
+#: src/pages/export/index.tsx:32
+msgid "export.sub-title"
+msgstr "Выберите платежную систему"
+
+#: src/pages/export/index.tsx:29
+msgid "export.title"
+msgstr "Вывод средств"
+
+#: src/features/home/components/header/index.tsx:37
+#: src/features/home/components/header/menu-mobile.tsx:27
+msgid "header.balance"
+msgstr "Баланс:"
+
+#: src/pages/export/index.tsx:25
+msgid "helmet.export"
+msgstr "Вывести"
+
+#: src/pages/help/index.tsx:79
+msgid "helmet.help"
+msgstr "Помощь"
+
+#: src/pages/main/index.tsx:26
+msgid "helmet.home"
+msgstr "Главная"
+
+#: src/pages/adminPages/actions/index.tsx:9
+#: src/pages/adminPages/admins/index.tsx:9
+#: src/pages/adminPages/settings/index.tsx:9
+#: src/pages/adminPages/statistic/index.tsx:9
+#: src/pages/import/index.tsx:26
+msgid "helmet.import"
+msgstr "Пополнить"
+
+#: src/pages/referral/index.tsx:87
+msgid "helmet.referral"
+msgstr "Рефералы"
+
+#: src/pages/join/reset/index.tsx:29
+msgid "helmet.reset"
+msgstr "Reset"
+
+#: src/pages/join/restore/index.tsx:33
+msgid "helmet.restore"
+msgstr "Restore"
+
+#: src/pages/join/sign-in/index.tsx:31
+#~ msgid "helmet.sign-in"
+#~ msgstr ""
+
+#: src/pages/join/sign-in/index.tsx:30
+msgid "helmet.signIn"
+msgstr "Sign In"
+
+#: src/pages/join/sign-up/index.tsx:33
+msgid "helmet.signUp"
+msgstr "Sign Up"
+
+#: src/pages/join/changed/index.tsx:19
+msgid "helmet.success"
+msgstr "Success"
+
+#: src/pages/help/index.tsx:83
+msgid "help.title"
+msgstr "Помощь"
+
+#: src/features/main/containers/statistics/invest.tsx:26
+#~ msgid "history.invest.amount"
+#~ msgstr "Сумма"
+
+#: src/pages/referral/index.tsx:49
+#~ msgid "history.invest.award"
+#~ msgstr "Награда"
+
+#: src/features/main/containers/statistics/invest.tsx:18
+#~ msgid "history.invest.date"
+#~ msgstr "Дата"
+
+#: src/pages/referral/index.tsx:50
+#~ msgid "history.invest.email"
+#~ msgstr "E-mail"
+
+#: src/features/main/containers/statistics/invest.tsx:14
+#~ msgid "history.invest.id"
+#~ msgstr "№"
+
+#: src/pages/referral/index.tsx:49
+#~ msgid "history.invest.name"
+#~ msgstr "Имя"
+
+#: src/features/main/containers/statistics/invest.tsx:22
+#~ msgid "history.invest.time"
+#~ msgstr "Время"
+
+#: src/features/main/containers/statistics/index.tsx:26
+msgid "history.user.title"
+msgstr "История транзакций опции"
+
+#: src/pages/import/index.tsx:33
+msgid "import.sub-title"
+msgstr "Выберите платежную систему"
+
+#: src/pages/import/index.tsx:30
+msgid "import.title"
+msgstr "Пополнение баланса"
+
+#: src/pages/404/index.tsx:28
+#: src/pages/join/changed/index.tsx:30
+#: src/pages/join/sended/index.tsx:32
+msgid "label.backToHome"
+msgstr "На главную"
+
+#: src/pages/404/index.tsx:25
+msgid "label.notFound"
+msgstr "Страница не найдена"
+
+#: src/features/export/components/modal-form.tsx:78
+#: src/features/import/components/modal-form.tsx:78
+msgid "labels.account-number"
+msgstr "Номер счета"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:82
+#~ msgid "labels.back"
+#~ msgstr ""
+
+#: src/entities/common/containers/join-menu/index.tsx:35
+#~ msgid "labels.connectWithSocial"
+#~ msgstr ""
+
+#: src/features/workspace/molecules/form-ws/index.tsx:91
+#~ msgid "labels.create"
+#~ msgstr ""
+
+#: src/features/export/components/modal-form.tsx:65
+#: src/features/import/components/modal-form.tsx:65
+msgid "labels.currency-type"
+msgstr "Тип валюты"
+
+#: src/features/join/containers/signup-menu/index.tsx:45
+#: src/features/password/containers/new-passsword-menu/index.tsx:33
+#: src/features/password/containers/restore-password-menu/index.tsx:33
+#~ msgid "labels.doYouHaveAnAccount"
+#~ msgstr ""
+
+#: src/features/join/containers/join-menu/index.tsx:48
+#~ msgid "labels.dontHaveAccount?"
+#~ msgstr ""
+
+#: src/features/join/containers/restore-form/index.tsx:45
+#: src/features/join/containers/sign-in-form/index.tsx:52
+#: src/features/join/containers/sign-up-form/index.tsx:85
+msgid "labels.email"
+msgstr "Ваш e-mail"
+
+#: src/features/join/containers/sign-up-form/index.tsx:126
+msgid "labels.iAccept"
+msgstr "Я соглашаюсь с"
+
+#: src/features/main/components/instruction/form.tsx:49
+msgid "labels.invest"
+msgstr "Введите сумму инвестиции"
+
+#: src/features/join/components/signup-form/index.tsx:92
+#~ msgid "labels.inviteCode"
+#~ msgstr ""
+
+#: src/features/join/containers/sign-up-form/index.tsx:73
+msgid "labels.name"
+msgstr "Ваше имя"
+
+#: src/features/join/containers/reset-form/index.tsx:58
+#: src/features/join/containers/sign-in-form/index.tsx:64
+#: src/features/join/containers/sign-up-form/index.tsx:97
+msgid "labels.password"
+msgstr "Ваш пароль"
+
+#: src/features/join/components/login-form/index.tsx:69
+#~ msgid "labels.rememberMe"
+#~ msgstr ""
+
+#: src/features/join/containers/reset-form/index.tsx:71
+#: src/features/join/containers/sign-up-form/index.tsx:110
+msgid "labels.repeatPassword"
+msgstr "Повторите пароль"
+
+#: src/features/join/containers/signup-menu/index.tsx:48
+#: src/features/password/containers/new-passsword-menu/index.tsx:36
+#: src/features/password/containers/restore-password-menu/index.tsx:36
+#~ msgid "labels.signIn"
+#~ msgstr ""
+
+#: src/features/join/containers/join-menu/index.tsx:53
+#~ msgid "labels.signUp"
+#~ msgstr ""
+
+#: src/features/export/components/modal-form.tsx:90
+#: src/features/import/components/modal-form.tsx:90
+msgid "labels.sum"
+msgstr "Сумма"
+
+#: src/features/join/containers/sign-up-form/index.tsx:128
+msgid "labels.termsAndConditions"
+msgstr "политикой конфиденциальности"
+
+#: src/features/import/components/modal-form.tsx:54
+#~ msgid "labels.unit-type"
+#~ msgstr ""
+
+#: src/features/workspace/molecules/form-ws/index.tsx:90
+#~ msgid "labels.update"
+#~ msgstr ""
+
+#: src/features/join/containers/sign-in-form/index.tsx:77
+msgid "link.reset"
+msgstr "Забыли пароль?"
+
+#: src/features/join/containers/sign-in-form/index.tsx:80
+msgid "link.signup"
+msgstr "У вас еще нет аккаунта?"
+
+#: src/features/join/components/login-form/index.tsx:72
+#~ msgid "links.forgotPassword"
+#~ msgstr ""
+
+#: src/features/home/components/header/local.tsx:24
+#~ msgid "locale-modal-en"
+#~ msgstr "Aнглийский"
+
+#: src/features/home/components/header/local.tsx:27
+#~ msgid "locale-modal-ru"
+#~ msgstr "Русский"
+
+#: src/features/home/components/header/local.tsx:30
+msgid "locale-modal-text"
+msgstr "Смена языка"
+
+#: src/features/home/components/header/menu.tsx:28
+#~ msgid "logout_text"
+#~ msgstr "Вы уверены что хотите выйти из аккаунта?"
+
+#: src/features/home/components/header/menu-desktop.tsx:63
+msgid "menu-logout"
+msgstr "Выйти из аккаунта"
+
+#: src/features/home/components/header/menu-desktop.tsx:60
+msgid "menu-settings"
+msgstr "Настройки"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:57
+#~ msgid "modal-cancel"
+#~ msgstr "Нет"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:54
+#~ msgid "modal-confirm"
+#~ msgstr "Да"
+
+#: src/features/main/containers/options/desktop-options.tsx:38
+#: src/features/main/containers/options/mobile-options.tsx:52
+#~ msgid "not-found-content"
+#~ msgstr "Ничего не найдено"
+
+#: src/features/main/components/option/index.tsx:79
+msgid "option-allowed-to-withdraw"
+msgstr "Доступно к выводу:"
+
+#: src/features/main/components/option/index.tsx:112
+msgid "option-button-output"
+msgstr "Вывод"
+
+#: src/features/main/components/option/index.tsx:119
+msgid "option-button-reinvest"
+msgstr "Реинвест"
+
+#: src/features/main/components/instruction/index.tsx:40
+#: src/features/main/containers/options/mobile-options.tsx:63
+#: src/features/main/containers/options/mobile-options.tsx:70
+msgid "option-instruction"
+msgstr "Опция "
+
+#: src/features/main/components/instruction/index.tsx:45
+msgid "option-instruction-text"
+msgstr "Взнос"
+
+#: src/features/main/components/option/index.tsx:52
+msgid "option-invested"
+msgstr "Вы инвестировали:"
+
+#: src/features/main/components/option/index.tsx:43
+msgid "option-name"
+msgstr "Баланс опция "
+
+#: src/features/main/components/option/index.tsx:95
+msgid "option-output-per-day"
+msgstr "Сумма вывода в день:"
+
+#: src/features/main/components/instruction/index.tsx:64
+msgid "option-output_1"
+msgstr "Вывод "
+
+#: src/features/main/components/instruction/index.tsx:66
+msgid "option-output_2"
+msgstr " в день от взноса, после закрытия инвестиции"
+
+#: src/features/main/components/option/index.tsx:60
+msgid "option-profit"
+msgstr "Начисленная прибыль:"
+
+#: src/features/main/components/option/index.tsx:68
+msgid "option-total"
+msgstr "Итоговая сумма:"
+
+#: src/features/main/components/option/index.tsx:87
+msgid "option-withdrawn"
+msgstr "Сколько уже выведено:"
+
+#: src/features/main/components/instruction/index.tsx:50
+#~ msgid "option.instruction-3"
+#~ msgstr ""
+
+#: src/features/main/components/instruction/index.tsx:50
+msgid "option_instruction-3"
+msgstr "от"
+
+#: src/features/main/components/instruction/index.tsx:59
+msgid "options-income-text"
+msgstr "Доход"
+
+#: src/features/common/components/error-boundary/index.tsx:44
+msgid "page-reload"
+msgstr "Перезагрузить"
+
+#: src/pages/referral/index.tsx:154
+msgid "referral.sub-title-2"
+msgstr "Сумма ваших доходов с привлеченных партнеров, которые сделали инвестиции"
+
+#: src/pages/referral/index.tsx:101
+msgid "referral.text-1"
+msgstr "Партнерское вознаграждение: "
+
+#: src/pages/referral/index.tsx:107
+msgid "referral.text-2"
+msgstr " от суммы депозита."
+
+#: src/pages/referral/index.tsx:113
+msgid "referral.text-3"
+msgstr "Пример: "
+
+#: src/pages/referral/index.tsx:115
+msgid "referral.text-4"
+msgstr "человек, которого вы пригласили "
+
+#: src/pages/referral/index.tsx:120
+msgid "referral.text-5"
+msgstr "инвестировал 500$ "
+
+#: src/pages/referral/index.tsx:123
+msgid "referral.text-6"
+msgstr ", вы автоматически получаете на баланс партнерского "
+
+#: src/pages/referral/index.tsx:127
+msgid "referral.text-7"
+msgstr "вознаграждения 25$ "
+
+#: src/pages/referral/index.tsx:129
+msgid "referral.text-8"
+msgstr ", которые вы сможете вывести сразу на свой счет."
+
+#: src/pages/referral/index.tsx:137
+msgid "referral.text-9"
+msgstr "Ваша ссылка для привлечения рефералов"
+
+#: src/pages/referral/index.tsx:91
+msgid "referral.title-1"
+msgstr "Партнерская программа"
+
+#: src/pages/referral/index.tsx:151
+msgid "referral.title-2"
+msgstr "Прибыль с рефералов"
+
+#: src/pages/referral/index.tsx:172
+msgid "referral.title-3"
+msgstr "Рефералы"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:47
+#~ msgid "rules.required"
+#~ msgstr ""
+
+#: src/features/workspace/molecules/form-ws/index.tsx:103
+#~ msgid "rules.workspaceAlreadyExist"
+#~ msgstr ""
+
+#: src/features/home/components/header/settings.tsx:182
+msgid "settings.deactivation"
+msgstr "Деактивация"
+
+#: src/features/home/components/header/settings.tsx:190
+msgid "settings.deactivation.change"
+msgstr "Удалить аккаунт"
+
+#: src/features/home/components/header/settings.tsx:156
+msgid "settings.email"
+msgstr "E-mail"
+
+#: src/features/home/components/header/settings.tsx:98
+msgid "settings.name"
+msgstr "Имя"
+
+#: src/features/home/components/header/settings.tsx:165
+msgid "settings.password"
+msgstr "Пароль"
+
+#: src/features/home/components/header/settings.tsx:170
+msgid "settings.password.change"
+msgstr "Изменить пароль"
+
+#: src/features/home/components/header/settings.tsx:174
+msgid "settings.password.repeat"
+msgstr "Повторить"
+
+#: src/features/home/components/header/settings.tsx:172
+msgid "settings.password.success"
+msgstr "Ссылка отправлена на e-mail"
+
+#: src/features/home/components/header/settings.tsx:123
+msgid "settings.theme"
+msgstr "Тема"
+
+#: src/features/home/components/header/settings.tsx:129
+#~ msgid "settings.theme.dark"
+#~ msgstr "Темная"
+
+#: src/features/home/components/header/settings.tsx:128
+#~ msgid "settings.theme.light"
+#~ msgstr "Светлая "
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:40
+msgid "side-link.actions"
+msgstr "Действия"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:34
+msgid "side-link.admins"
+msgstr "Админы"
+
+#: src/features/export/components/modal-form.tsx:101
+#: src/features/home/components/side-left/index.tsx:35
+#: src/pages/export/index.tsx:39
+#: src/pages/export/index.tsx:45
+#: src/pages/export/index.tsx:51
+#: src/pages/export/index.tsx:57
+#: src/pages/export/index.tsx:63
+#: src/pages/export/index.tsx:69
+#: src/pages/referral/index.tsx:167
+msgid "side-link.export"
+msgstr "Вывести"
+
+#: src/features/home/components/side-left/index.tsx:47
+msgid "side-link.help"
+msgstr "Помощь"
+
+#: src/features/home/components/side-left/index.tsx:29
+#: src/features/import/components/modal-form.tsx:101
+#: src/pages/import/index.tsx:42
+#: src/pages/import/index.tsx:50
+#: src/pages/import/index.tsx:58
+#: src/pages/import/index.tsx:66
+#: src/pages/import/index.tsx:74
+#: src/pages/import/index.tsx:82
+msgid "side-link.import"
+msgstr "Пополнить"
+
+#: src/features/home/components/side-left/index.tsx:23
+msgid "side-link.main"
+msgstr "Главная"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:28
+msgid "side-link.management"
+msgstr "Управление"
+
+#: src/features/home/components/side-left/index.tsx:41
+msgid "side-link.referral"
+msgstr "Рефералы"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:29
+#~ msgid "side-link.settings"
+#~ msgstr "Управление"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:22
+msgid "side-link.statistic"
+msgstr "Статистика"
+
+#: src/shared/ui/atoms/table/index.tsx:30
+msgid "table.empty"
+msgstr "Нету данных для отображения"
+
+#: src/features/main/containers/statistics/invest.tsx:41
+msgid "table.invest.title"
+msgstr "Список инвестиций"
+
+#: src/features/main/containers/statistics/reinvest.tsx:40
+msgid "table.reinvest.title"
+msgstr "Список реинвестиций"
+
+#: src/features/main/containers/statistics/withdrawn.tsx:40
+msgid "table.withdrawn.title"
+msgstr "Список выводов"
+
+#: src/features/join/containers/sign-up-form/index.tsx:143
+msgid "title.alreadyHas"
+msgstr "У меня уже есть аккаунт"
+
+#: src/pages/join/changed/index.tsx:27
+msgid "title.changed"
+msgstr "Пароль изменен!"
+
+#: src/pages/join/sign-in/index.tsx:38
+msgid "title.login"
+msgstr "Войти"
+
+#: src/pages/join/reset/index.tsx:37
+msgid "title.reset"
+msgstr "Смена пароля"
+
+#: src/pages/join/restore/index.tsx:42
+msgid "title.restore"
+msgstr "Забыли пароль?"
+
+#: src/pages/join/sign-up/index.tsx:22
+#~ msgid "title.sendEmail"
+#~ msgstr ""
+
+#: src/pages/join/sended/index.tsx:27
+msgid "title.sendEmail1"
+msgstr "Запрос отправлен на"
+
+#: src/pages/join/sended/index.tsx:29
+msgid "title.sendEmail2"
+msgstr "ваш e-mail!"
+
+#: src/pages/join/sign-up/index.tsx:41
+msgid "title.signup"
+msgstr "Регистрация"
+
+#: src/features/password/containers/restore-password-menu/index.tsx:26
+#~ msgid "titles.passwordRestore"
+#~ msgstr ""
+
+#: src/features/password/containers/new-passsword-menu/index.tsx:26
+#~ msgid "titles.setNewPassword"
+#~ msgstr ""
+
+#: src/features/join/containers/join-menu/index.tsx:29
+#~ msgid "titles.signIn"
+#~ msgstr ""
+
+#: src/features/join/containers/signup-menu/index.tsx:38
+#~ msgid "titles.signUp"
+#~ msgstr ""
+
+#: src/pages/join/guest/index.tsx:25
+#: src/pages/join/new-password/index.tsx:41
+#: src/pages/join/restore-password/index.tsx:24
+#: src/pages/join/sign-in/index.tsx:33
+#: src/pages/join/signup/index.tsx:32
+#~ msgid "titles.welcomeTo"
+#~ msgstr ""
+
+#: src/features/workspace/molecules/form-ws/index.tsx:74
+#~ msgid "toasts.Copied"
+#~ msgstr ""
+
+#: src/features/chat/components/Bubble/index.tsx:32
+#~ msgid "{id}"
+#~ msgstr ""

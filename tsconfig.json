@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "baseUrl": "./src",
+    "noEmit": false,
+    "strictNullChecks": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "removeComments": false,
+    "paths": {
+      "*": ["*"],
+      "lib/*": ["shared/lib/*"],
+      "api/*": ["shared/api/*"],
+      "entities/*": ["entities/*"],
+      "features/*": ["features/*"],
+      "shared/*": ["shared/*"],
+      "pages/*": ["pages/*"],
+      "ui/*": ["shared/ui/*"],
+      "mocks/*": ["mocks/*"],
+      "icons/*": ["shared/ui/atoms/icon/*"],
+      "processes/*": ["processes/*"]
+    }
+  },
+  "include": ["src"]
+}

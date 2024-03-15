@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-05-14 10:28+0300\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/features/join/components/signup-form/index.tsx:120
+#~ msgid "buttons.createAccount"
+#~ msgstr "Create account"
+
+#: src/features/main/components/instruction/form.tsx:61
+#: src/features/main/components/instruction/form.tsx:68
+msgid "buttons.invest"
+msgstr "Invest"
+
+#: src/features/join/containers/sign-in-form/index.tsx:85
+#: src/features/join/containers/sign-up-form/index.tsx:140
+msgid "buttons.login"
+msgstr "Login"
+
+#: src/features/password/components/new-password-form/index.tsx:48
+#~ msgid "buttons.save"
+#~ msgstr "Save"
+
+#: src/features/join/containers/reset-form/index.tsx:84
+#: src/features/join/containers/restore-form/index.tsx:57
+msgid "buttons.send"
+msgstr "Send"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:35
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:42
+msgid "cancel"
+msgstr "No"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:33
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:40
+msgid "confirm"
+msgstr "Yes"
+
+#: src/features/home/components/header/settings.tsx:45
+#~ msgid "delete_account_1"
+#~ msgstr "Are you sure you want to "
+
+#: src/features/home/components/header/settings.tsx:46
+#~ msgid "delete_account_2"
+#~ msgstr "delete"
+
+#: src/features/home/components/header/settings.tsx:47
+#~ msgid "delete_account_3"
+#~ msgstr " your account?"
+
+#: src/features/common/components/error-boundary/index.tsx:41
+msgid "error-went-wrong"
+msgstr "Something went wrong"
+
+#: src/processes/auth/init.ts:79
+msgid "error.email_alreadt_used"
+msgstr "Email is already used"
+
+#: src/features/profile/model/init.ts:84
+msgid "error.fail_delete_account"
+msgstr "Fail delete account"
+
+#: src/features/profile/model/init.ts:69
+msgid "error.fail_send_email"
+msgstr "Fail send email"
+
+#: src/features/profile/model/init.ts:34
+#: src/features/profile/model/init.ts:49
+msgid "error.fail_update_profile"
+msgstr "Fail update profile"
+
+#: src/features/main/containers/options/desktop-options.tsx:25
+#: src/features/main/containers/options/mobile-options.tsx:37
+msgid "error.incorect-sum"
+msgstr "You invest incorrect amount"
+
+#: src/features/join/containers/restore-form/index.tsx:33
+#: src/features/join/containers/sign-in-form/index.tsx:39
+#: src/features/join/containers/sign-up-form/index.tsx:44
+msgid "error.invalid_email"
+msgstr "You entered an incorrect e-mail"
+
+#: src/features/export/components/modal-form.tsx:49
+#: src/features/import/components/modal-form.tsx:49
+msgid "error.isNotNumber"
+msgstr "Amount must be a number !"
+
+#: src/features/join/containers/sign-up-form/index.tsx:48
+msgid "error.minLength"
+msgstr "Minimum number of characters 6"
+
+#: src/features/export/components/modal-form.tsx:46
+#: src/features/export/components/modal-form.tsx:47
+#: src/features/export/components/modal-form.tsx:50
+#: src/features/import/components/modal-form.tsx:46
+#: src/features/import/components/modal-form.tsx:47
+#: src/features/import/components/modal-form.tsx:50
+#: src/features/join/containers/reset-form/index.tsx:33
+#: src/features/join/containers/restore-form/index.tsx:34
+#: src/features/join/containers/sign-in-form/index.tsx:40
+#: src/features/join/containers/sign-in-form/index.tsx:41
+#: src/features/join/containers/sign-up-form/index.tsx:42
+#: src/features/join/containers/sign-up-form/index.tsx:45
+#: src/features/join/containers/sign-up-form/index.tsx:47
+#: src/features/main/components/instruction/form.tsx:39
+msgid "error.required"
+msgstr "Required field"
+
+#: src/features/profile/model/init.ts:39
+#: src/features/profile/model/init.ts:54
+msgid "error.success_update_profile"
+msgstr "Profile updated successfully"
+
+#: src/processes/auth/init.ts:84
+msgid "error.wrong_login_password"
+msgstr "You entered an incorrect e-mail or password"
+
+#: src/pages/export/index.tsx:32
+msgid "export.sub-title"
+msgstr "Choose a payment system"
+
+#: src/pages/export/index.tsx:29
+msgid "export.title"
+msgstr "Withdraw funds"
+
+#: src/features/home/components/header/index.tsx:37
+#: src/features/home/components/header/menu-mobile.tsx:27
+msgid "header.balance"
+msgstr "Balance:"
+
+#: src/pages/export/index.tsx:25
+msgid "helmet.export"
+msgstr "Withdraw"
+
+#: src/pages/help/index.tsx:79
+msgid "helmet.help"
+msgstr "Help"
+
+#: src/pages/main/index.tsx:26
+msgid "helmet.home"
+msgstr "Home"
+
+#: src/pages/adminPages/actions/index.tsx:9
+#: src/pages/adminPages/admins/index.tsx:9
+#: src/pages/adminPages/settings/index.tsx:9
+#: src/pages/adminPages/statistic/index.tsx:9
+#: src/pages/import/index.tsx:26
+msgid "helmet.import"
+msgstr "Deposit"
+
+#: src/pages/referral/index.tsx:87
+msgid "helmet.referral"
+msgstr "Referral"
+
+#: src/pages/join/reset/index.tsx:29
+msgid "helmet.reset"
+msgstr "Reset"
+
+#: src/pages/join/restore/index.tsx:33
+msgid "helmet.restore"
+msgstr "Restore"
+
+#: src/pages/join/sign-in/index.tsx:31
+#~ msgid "helmet.sign-in"
+#~ msgstr "Sign In"
+
+#: src/pages/join/sign-in/index.tsx:30
+msgid "helmet.signIn"
+msgstr "Sign In"
+
+#: src/pages/join/sign-up/index.tsx:33
+msgid "helmet.signUp"
+msgstr "Sign Up"
+
+#: src/pages/join/changed/index.tsx:19
+msgid "helmet.success"
+msgstr "Success"
+
+#: src/pages/help/index.tsx:83
+msgid "help.title"
+msgstr "Help"
+
+#: src/features/main/containers/statistics/invest.tsx:26
+#~ msgid "history.invest.amount"
+#~ msgstr "Amount"
+
+#: src/pages/referral/index.tsx:49
+#~ msgid "history.invest.award"
+#~ msgstr "Award"
+
+#: src/features/main/containers/statistics/invest.tsx:18
+#~ msgid "history.invest.date"
+#~ msgstr "Date"
+
+#: src/pages/referral/index.tsx:50
+#~ msgid "history.invest.email"
+#~ msgstr "E-mail"
+
+#: src/features/main/containers/statistics/invest.tsx:14
+#~ msgid "history.invest.id"
+#~ msgstr "№"
+
+#: src/pages/referral/index.tsx:49
+#~ msgid "history.invest.name"
+#~ msgstr "Name"
+
+#: src/features/main/containers/statistics/invest.tsx:22
+#~ msgid "history.invest.time"
+#~ msgstr "Time"
+
+#: src/features/main/containers/statistics/index.tsx:26
+msgid "history.user.title"
+msgstr "Transaction history for option"
+
+#: src/pages/import/index.tsx:33
+msgid "import.sub-title"
+msgstr "Choose a payment system"
+
+#: src/pages/import/index.tsx:30
+msgid "import.title"
+msgstr "Balance replenishment"
+
+#: src/pages/404/index.tsx:28
+#: src/pages/join/changed/index.tsx:30
+#: src/pages/join/sended/index.tsx:32
+msgid "label.backToHome"
+msgstr "Back to home"
+
+#: src/pages/404/index.tsx:25
+msgid "label.notFound"
+msgstr "Page not found"
+
+#: src/features/export/components/modal-form.tsx:78
+#: src/features/import/components/modal-form.tsx:78
+msgid "labels.account-number"
+msgstr "Account number"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:82
+#~ msgid "labels.back"
+#~ msgstr "Back"
+
+#: src/entities/common/containers/join-menu/index.tsx:35
+#~ msgid "labels.connectWithSocial"
+#~ msgstr "Connect with social"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:91
+#~ msgid "labels.create"
+#~ msgstr "Create"
+
+#: src/features/export/components/modal-form.tsx:65
+#: src/features/import/components/modal-form.tsx:65
+msgid "labels.currency-type"
+msgstr "Currency type"
+
+#: src/features/join/containers/signup-menu/index.tsx:45
+#: src/features/password/containers/new-passsword-menu/index.tsx:33
+#: src/features/password/containers/restore-password-menu/index.tsx:33
+#~ msgid "labels.doYouHaveAnAccount"
+#~ msgstr "Do you have an account?"
+
+#: src/features/join/containers/join-menu/index.tsx:48
+#~ msgid "labels.dontHaveAccount?"
+#~ msgstr "Don't have an account?"
+
+#: src/features/join/containers/restore-form/index.tsx:45
+#: src/features/join/containers/sign-in-form/index.tsx:52
+#: src/features/join/containers/sign-up-form/index.tsx:85
+msgid "labels.email"
+msgstr "Email"
+
+#: src/features/join/containers/sign-up-form/index.tsx:126
+msgid "labels.iAccept"
+msgstr "I agree to the"
+
+#: src/features/main/components/instruction/form.tsx:49
+msgid "labels.invest"
+msgstr "Enter the investment amount"
+
+#: src/features/join/components/signup-form/index.tsx:92
+#~ msgid "labels.inviteCode"
+#~ msgstr "Invite code"
+
+#: src/features/join/containers/sign-up-form/index.tsx:73
+msgid "labels.name"
+msgstr "Name"
+
+#: src/features/join/containers/reset-form/index.tsx:58
+#: src/features/join/containers/sign-in-form/index.tsx:64
+#: src/features/join/containers/sign-up-form/index.tsx:97
+msgid "labels.password"
+msgstr "Password"
+
+#: src/features/join/components/login-form/index.tsx:69
+#~ msgid "labels.rememberMe"
+#~ msgstr "Remember me"
+
+#: src/features/join/containers/reset-form/index.tsx:71
+#: src/features/join/containers/sign-up-form/index.tsx:110
+msgid "labels.repeatPassword"
+msgstr "Repeat password"
+
+#: src/features/join/containers/signup-menu/index.tsx:48
+#: src/features/password/containers/new-passsword-menu/index.tsx:36
+#: src/features/password/containers/restore-password-menu/index.tsx:36
+#~ msgid "labels.signIn"
+#~ msgstr "Sign In"
+
+#: src/features/join/containers/join-menu/index.tsx:53
+#~ msgid "labels.signUp"
+#~ msgstr "Sign Up"
+
+#: src/features/export/components/modal-form.tsx:90
+#: src/features/import/components/modal-form.tsx:90
+msgid "labels.sum"
+msgstr "Sum"
+
+#: src/features/join/containers/sign-up-form/index.tsx:128
+msgid "labels.termsAndConditions"
+msgstr "privacy policy"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:90
+#~ msgid "labels.update"
+#~ msgstr "Update"
+
+#: src/features/join/containers/sign-in-form/index.tsx:77
+msgid "link.reset"
+msgstr "Forgot your password?"
+
+#: src/features/join/containers/sign-in-form/index.tsx:80
+msgid "link.signup"
+msgstr "Don't have an account yet?"
+
+#: src/features/join/components/login-form/index.tsx:72
+#~ msgid "links.forgotPassword"
+#~ msgstr "Forgot password"
+
+#: src/features/home/components/header/local.tsx:24
+#~ msgid "locale-modal-en"
+#~ msgstr "English"
+
+#: src/features/home/components/header/local.tsx:27
+#~ msgid "locale-modal-ru"
+#~ msgstr "Russian"
+
+#: src/features/home/components/header/local.tsx:30
+msgid "locale-modal-text"
+msgstr "Switch language"
+
+#: src/features/home/components/header/menu.tsx:28
+#~ msgid "logout_text"
+#~ msgstr "Are you sure you want to log out of your account?"
+
+#: src/features/home/components/header/menu-desktop.tsx:63
+msgid "menu-logout"
+msgstr "Logout"
+
+#: src/features/home/components/header/menu-desktop.tsx:60
+msgid "menu-settings"
+msgstr "Settings"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:57
+#~ msgid "modal-cancel"
+#~ msgstr "No"
+
+#: src/shared/ui/molecules/modal/confirm-dialog.tsx:54
+#~ msgid "modal-confirm"
+#~ msgstr "Yes"
+
+#: src/features/main/containers/options/desktop-options.tsx:38
+#: src/features/main/containers/options/mobile-options.tsx:52
+#~ msgid "not-found-content"
+#~ msgstr "Nothing not found"
+
+#: src/features/main/components/option/index.tsx:79
+msgid "option-allowed-to-withdraw"
+msgstr "Available for output:"
+
+#: src/features/main/components/option/index.tsx:112
+msgid "option-button-output"
+msgstr "Output"
+
+#: src/features/main/components/option/index.tsx:119
+msgid "option-button-reinvest"
+msgstr "Reinvest"
+
+#: src/features/main/components/instruction/index.tsx:40
+#: src/features/main/containers/options/mobile-options.tsx:63
+#: src/features/main/containers/options/mobile-options.tsx:70
+msgid "option-instruction"
+msgstr "Option "
+
+#: src/features/main/components/instruction/index.tsx:45
+msgid "option-instruction-text"
+msgstr "Input"
+
+#: src/features/main/components/option/index.tsx:52
+msgid "option-invested"
+msgstr "You have invested:"
+
+#: src/features/main/components/option/index.tsx:43
+msgid "option-name"
+msgstr "Option`s balance "
+
+#: src/features/main/components/option/index.tsx:95
+msgid "option-output-per-day"
+msgstr "Withdrawal amount per day:"
+
+#: src/features/main/components/instruction/index.tsx:64
+msgid "option-output_1"
+msgstr "Withdrawal "
+
+#: src/features/main/components/instruction/index.tsx:66
+msgid "option-output_2"
+msgstr " per day of the contribution, after closing the investment"
+
+#: src/features/main/components/option/index.tsx:60
+msgid "option-profit"
+msgstr "Accrued profit:"
+
+#: src/features/main/components/option/index.tsx:68
+msgid "option-total"
+msgstr "Total amount:"
+
+#: src/features/main/components/option/index.tsx:87
+msgid "option-withdrawn"
+msgstr "How many already withdrawn:"
+
+#: src/features/main/components/instruction/index.tsx:50
+#~ msgid "option.instruction-3"
+#~ msgstr "from"
+
+#: src/features/main/components/instruction/index.tsx:50
+msgid "option_instruction-3"
+msgstr "<"
+
+#: src/features/main/components/instruction/index.tsx:59
+msgid "options-income-text"
+msgstr "Income"
+
+#: src/features/common/components/error-boundary/index.tsx:44
+msgid "page-reload"
+msgstr "Reload"
+
+#: src/pages/referral/index.tsx:154
+msgid "referral.sub-title-2"
+msgstr "The amount of your income from attracted partners who made investments"
+
+#: src/pages/referral/index.tsx:101
+msgid "referral.text-1"
+msgstr "Affiliate reward: "
+
+#: src/pages/referral/index.tsx:107
+msgid "referral.text-2"
+msgstr " of the deposit amount."
+
+#: src/pages/referral/index.tsx:113
+msgid "referral.text-3"
+msgstr "Example: "
+
+#: src/pages/referral/index.tsx:115
+msgid "referral.text-4"
+msgstr "the person you invited "
+
+#: src/pages/referral/index.tsx:120
+msgid "referral.text-5"
+msgstr "invested $ 500 "
+
+#: src/pages/referral/index.tsx:123
+msgid "referral.text-6"
+msgstr ", you automatically get to the balance of the partner "
+
+#: src/pages/referral/index.tsx:127
+msgid "referral.text-7"
+msgstr "city in size 25 $ "
+
+#: src/pages/referral/index.tsx:129
+msgid "referral.text-8"
+msgstr "that you can withdraw directly to your account."
+
+#: src/pages/referral/index.tsx:137
+msgid "referral.text-9"
+msgstr "Your link to attract referrals"
+
+#: src/pages/referral/index.tsx:91
+msgid "referral.title-1"
+msgstr "Affiliate program"
+
+#: src/pages/referral/index.tsx:151
+msgid "referral.title-2"
+msgstr "Profit from referrals"
+
+#: src/pages/referral/index.tsx:172
+msgid "referral.title-3"
+msgstr "Referrals"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:47
+#~ msgid "rules.required"
+#~ msgstr "Required"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:103
+#~ msgid "rules.workspaceAlreadyExist"
+#~ msgstr "Workspace Already Exist"
+
+#: src/features/home/components/header/settings.tsx:182
+msgid "settings.deactivation"
+msgstr "Deactivation"
+
+#: src/features/home/components/header/settings.tsx:190
+msgid "settings.deactivation.change"
+msgstr "Delete account"
+
+#: src/features/home/components/header/settings.tsx:156
+msgid "settings.email"
+msgstr "Email"
+
+#: src/features/home/components/header/settings.tsx:98
+msgid "settings.name"
+msgstr "Name"
+
+#: src/features/home/components/header/settings.tsx:165
+msgid "settings.password"
+msgstr "Password"
+
+#: src/features/home/components/header/settings.tsx:170
+msgid "settings.password.change"
+msgstr "Change Password"
+
+#: src/features/home/components/header/settings.tsx:174
+msgid "settings.password.repeat"
+msgstr "Repeat"
+
+#: src/features/home/components/header/settings.tsx:172
+msgid "settings.password.success"
+msgstr "Link sent to email"
+
+#: src/features/home/components/header/settings.tsx:123
+msgid "settings.theme"
+msgstr "Theme"
+
+#: src/features/home/components/header/settings.tsx:129
+#~ msgid "settings.theme.dark"
+#~ msgstr "Dark"
+
+#: src/features/home/components/header/settings.tsx:128
+#~ msgid "settings.theme.light"
+#~ msgstr "Light"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:40
+msgid "side-link.actions"
+msgstr "Actions"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:34
+msgid "side-link.admins"
+msgstr "Admins"
+
+#: src/features/export/components/modal-form.tsx:101
+#: src/features/home/components/side-left/index.tsx:35
+#: src/pages/export/index.tsx:39
+#: src/pages/export/index.tsx:45
+#: src/pages/export/index.tsx:51
+#: src/pages/export/index.tsx:57
+#: src/pages/export/index.tsx:63
+#: src/pages/export/index.tsx:69
+#: src/pages/referral/index.tsx:167
+msgid "side-link.export"
+msgstr "Withdraw"
+
+#: src/features/home/components/side-left/index.tsx:47
+msgid "side-link.help"
+msgstr "Help"
+
+#: src/features/home/components/side-left/index.tsx:29
+#: src/features/import/components/modal-form.tsx:101
+#: src/pages/import/index.tsx:42
+#: src/pages/import/index.tsx:50
+#: src/pages/import/index.tsx:58
+#: src/pages/import/index.tsx:66
+#: src/pages/import/index.tsx:74
+#: src/pages/import/index.tsx:82
+msgid "side-link.import"
+msgstr "Deposit"
+
+#: src/features/home/components/side-left/index.tsx:23
+msgid "side-link.main"
+msgstr "Home"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:28
+msgid "side-link.management"
+msgstr "Managment"
+
+#: src/features/home/components/side-left/index.tsx:41
+msgid "side-link.referral"
+msgstr "Referral"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:29
+#~ msgid "side-link.settings"
+#~ msgstr "Settings"
+
+#: src/features/admins/dashboard/components/side-left/index.tsx:22
+msgid "side-link.statistic"
+msgstr "Statistic"
+
+#: src/shared/ui/atoms/table/index.tsx:30
+msgid "table.empty"
+msgstr "No data to display"
+
+#: src/features/main/containers/statistics/invest.tsx:41
+msgid "table.invest.title"
+msgstr "Investment List"
+
+#: src/features/main/containers/statistics/reinvest.tsx:40
+msgid "table.reinvest.title"
+msgstr "Reinvestment list"
+
+#: src/features/main/containers/statistics/withdrawn.tsx:40
+msgid "table.withdrawn.title"
+msgstr "Pin list"
+
+#: src/features/join/containers/sign-up-form/index.tsx:143
+msgid "title.alreadyHas"
+msgstr "I already have an account"
+
+#: src/pages/join/changed/index.tsx:27
+msgid "title.changed"
+msgstr "Password changed!"
+
+#: src/pages/join/sign-in/index.tsx:38
+msgid "title.login"
+msgstr "Login"
+
+#: src/pages/join/reset/index.tsx:37
+msgid "title.reset"
+msgstr "Change Password"
+
+#: src/pages/join/restore/index.tsx:42
+msgid "title.restore"
+msgstr "Forgot your password?"
+
+#: src/pages/join/sign-up/index.tsx:22
+#~ msgid "title.sendEmail"
+#~ msgstr ""
+
+#: src/pages/join/sended/index.tsx:27
+msgid "title.sendEmail1"
+msgstr "Request sent to"
+
+#: src/pages/join/sended/index.tsx:29
+msgid "title.sendEmail2"
+msgstr "your e-mail!"
+
+#: src/pages/join/sign-up/index.tsx:41
+msgid "title.signup"
+msgstr "Sign up"
+
+#: src/features/password/containers/restore-password-menu/index.tsx:26
+#~ msgid "titles.passwordRestore"
+#~ msgstr "Password restore"
+
+#: src/features/password/containers/new-passsword-menu/index.tsx:26
+#~ msgid "titles.setNewPassword"
+#~ msgstr "Set new password"
+
+#: src/features/join/containers/join-menu/index.tsx:29
+#~ msgid "titles.signIn"
+#~ msgstr "Sign In"
+
+#: src/features/join/containers/signup-menu/index.tsx:38
+#~ msgid "titles.signUp"
+#~ msgstr "Sign up"
+
+#: src/pages/join/guest/index.tsx:25
+#: src/pages/join/new-password/index.tsx:41
+#: src/pages/join/restore-password/index.tsx:24
+#: src/pages/join/sign-in/index.tsx:33
+#: src/pages/join/signup/index.tsx:32
+#~ msgid "titles.welcomeTo"
+#~ msgstr "Welcome to"
+
+#: src/features/workspace/molecules/form-ws/index.tsx:74
+#~ msgid "toasts.Copied"
+#~ msgstr "Copied!"
+
+#: src/features/chat/components/Bubble/index.tsx:32
+#~ msgid "{id}"
+#~ msgstr ""

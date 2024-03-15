@@ -1,0 +1,2 @@
+/*! For license information please see chunk-logout-page.3120c4b3a53b6fb6e467.js.LICENSE.txt */
+"use strict";(self.webpackChunkpulsar_group=self.webpackChunkpulsar_group||[]).push([[431],{k23W:function(r,u,n){n.r(u),n.d(u,{Privacy:function(){return e}});n("q1tI");var c=n("nKUr"),e=function(){return(0,c.jsx)("div",{children:"PRIVACY POLICY"})}}}]);
